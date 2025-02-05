@@ -1,6 +1,5 @@
 # Deepseak-Crawler
 
-# Deep Seek Crawler
 
 This project is a web crawler built with Python that extracts venue data (wedding reception venues) from a website using asynchronous programming with Crawl4AI. It utilizes a language model-based extraction strategy and saves the collected data to a CSV file.
 
